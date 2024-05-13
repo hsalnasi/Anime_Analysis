@@ -1,5 +1,5 @@
 ---
-<center># Anime Analysis Project<center/>
+<center> # Anime Analysis Project <center/>
 
 Welcome to our Anime Analysis project! 🎉
 
