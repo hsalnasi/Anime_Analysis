@@ -1,10 +1,12 @@
 
 # <center> 📊Anime Analysis Project <center/>
-<div style="text-align: right; padding: 60px;"> 
+<div style="text-align: right; padding: 500px;"> 
 
 <h5> <center> Welcome to The Anime Analysis project! <img src='https://i.imgur.com/45u09oc.png' width=50 padding=2>
-  <br> <br/>This README provides a concise overview of my analysis. Feel free to delve into the notebooks for a detailed look at the entire process. <center/> </h5>
+  <br> <br/> <center/> </h5>
 </div>
+    
+> This README provides a concise overview of my analysis. Feel free to delve into the notebooks for a detailed look at the entire process.
 
 
 ## 💡Overview
