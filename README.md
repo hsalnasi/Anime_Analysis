@@ -3,15 +3,15 @@
 
 Welcome to our Anime Analysis project! 🎉
 
-## Overview
+## 💡Overview
 
-This repository hosts the code and findings of our comprehensive analysis of anime trends, preferences, and demographics. We've delved into a vast dataset of anime titles, user ratings, genres, and other metadata to uncover fascinating insights into the world of anime fandom.
+This repository hosts the code and findings of our comprehensive analysis of anime trends, preferences, and demographics, specifically focusing on data from the *[MyAnimeList platform (MAL)](https://myanimelist.net)*. We've delved into a vast dataset of anime titles, user ratings, genres, and other metadata to uncover fascinating insights into the world of anime fandom. Additionally, we're analyzing user interactions and behaviors from the MAL platform to gain a deeper understanding of anime viewership patterns and preferences.
 
 - **Datasets**: The CSV files containing the datasets can be found [here](https://drive.google.com/drive/folders/151TpnljhWU69pJwJpHWpDe2vbcxDAPrM?usp=sharing) or you can create your own [here](https://github.com/Sajid030/anime_dataset_generator).
 
 - **Project Structure**: The project consists of two sections:
-  - **Anime Analysis**: This section focuses on analyzing trends, genres, ratings, and seasonal patterns of anime titles.
-  - **Anime User Analysis**: This section examines demographics, user preferences, and engagement with anime content.
+  - **[Anime Analysis](1_Anime_Analysis)**: This section focuses on analyzing trends, genres, ratings, and seasonal patterns of anime titles.
+  - **[Anime User Analysis](2_MAL_User_Analysis)**: This section examines demographics, user preferences, and engagement with anime content.
 
 ## Key Findings
 
