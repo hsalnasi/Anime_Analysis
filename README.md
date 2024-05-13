@@ -1,9 +1,9 @@
 
 # <center> 📊Anime Analysis Project <center/>
-![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/9e622a3c-b952-4cfa-ac66-c4d170c21b36)  
-<div style="text-align: center; padding: 20px;"> 
+<br><br/>
+<div style="text-align: right; padding: 60px;"> 
 
-<h5> Welcome to our Anime Analysis project! 🎉 <img src='https://i.imgur.com/45u09oc.png' width=50 padding=1></h2>
+<h5> <center> Welcome to our Anime Analysis project! 🎉 <img src='https://i.imgur.com/45u09oc.png' width=50 padding=2> <center/> </h2>
 </div>
 
 
