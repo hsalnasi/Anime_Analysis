@@ -1,7 +1,10 @@
----
 # <center> Anime Analysis Project <center/>
 
 Welcome to our Anime Analysis project! 🎉
+<div style='text-align: center; padding: 20px;'>
+
+<img src="https://tenor.com/6LUi.gif" alt="Alt Text" width=700>
+</div>
 
 ## 💡Overview
 
