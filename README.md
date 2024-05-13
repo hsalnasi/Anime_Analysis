@@ -1,4 +1,4 @@
-
+---
 # Anime Analysis Project
 
 Welcome to our Anime Analysis project! 🎉
@@ -6,6 +6,12 @@ Welcome to our Anime Analysis project! 🎉
 ## Overview
 
 This repository hosts the code and findings of our comprehensive analysis of anime trends, preferences, and demographics. We've delved into a vast dataset of anime titles, user ratings, genres, and other metadata to uncover fascinating insights into the world of anime fandom.
+
+- **Datasets**: The CSV files containing the datasets can be found [here](https://drive.google.com/drive/folders/151TpnljhWU69pJwJpHWpDe2vbcxDAPrM?usp=sharing) or you can create your own [here](https://github.com/Sajid030/anime_dataset_generator).
+
+- **Project Structure**: The project consists of two sections:
+  - **Anime Analysis**: This section focuses on analyzing trends, genres, ratings, and seasonal patterns of anime titles.
+  - **Anime User Analysis**: This section examines demographics, user preferences, and engagement with anime content.
 
 ## Key Findings
 
@@ -34,5 +40,3 @@ Leveraging machine learning techniques, we developed a recommendation system to 
 To explore our findings and replicate our analysis, simply clone this repository and follow the instructions in the documentation. Feel free to adapt our code for your own projects or contribute to further research in the anime community.
 
 ---
-
-This style maintains the informative content while adding some visual appeal and organization to the README file. Feel free to adjust it further to suit your preferences and the specific requirements of your portfolio project.
