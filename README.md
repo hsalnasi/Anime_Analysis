@@ -3,7 +3,7 @@
 <br><br/>
 <div style="text-align: right; padding: 60px;"> 
 
-<h5> <center> Welcome to our Anime Analysis project! 🎉 <img src='https://i.imgur.com/45u09oc.png' width=50 padding=2> <center/> </h2>
+<h5> <center> Explore my Anime Analysis project! <img src='https://i.imgur.com/45u09oc.png' width=50 padding=2> This README provides a concise overview of my analysis. Feel free to delve into the notebooks for a detailed look at the entire process. <center/> </h5>
 </div>
 
 
@@ -42,5 +42,22 @@ Leveraging machine learning techniques, we developed a recommendation system to 
 ## How to Use
 
 To explore our findings and replicate our analysis, simply clone this repository and follow the instructions in the documentation. Feel free to adapt our code for your own projects or contribute to further research in the anime community.
+
+## Tools Used
+
+The analysis in this project was conducted using a variety of tools and techniques:
+
+- **<img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="Excel logo " width = "20" height = "20" style="vertical-align: text-bottom; padding-right: 10 px "> Excel**: Initial data exploration and preprocessing were performed using Excel for data cleaning and basic analysis.
+
+-  **<img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" alt="Matplotlib Logo" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;"> Matplotlib**: Matplotlib was used for creating visualizations such as bar charts, line plots, and scatter plots to illustrate trends and patterns in the data.
+
+
+- **<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;"> Seaborn**: Seaborn was utilized for more advanced data visualization tasks, including heatmaps, pair plots, and violin plots, to gain deeper insights into the relationships between variables.
+
+- **<img src="https://www.machinelearningplus.com/wp-content/uploads/2023/03/MICE-imputation.png" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;"> MICE Imputation Algorithm**: The Multivariate Imputation by Chained Equations (MICE) algorithm was applied for handling missing data, ensuring robustness in our analysis by imputing missing values based on observed data patterns.
+
+- **<img src="https://png.pngtree.com/png-vector/20220706/ourmid/pngtree-stats-business-graph-png-image_5705173.png" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;">  Statistical Tests**: Various statistical tests, such as `Spearman correlation test` and `ANOVA` tests, were employed to analyze relationships between variables, assess significance levels, and validate findings.
+
+These tools and techniques were instrumental in conducting a comprehensive analysis of anime trends and preferences, providing valuable insights into the anime fandom.
 
 ---
