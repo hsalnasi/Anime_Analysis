@@ -1,6 +1,5 @@
 
 # <center> 📊Anime Analysis Project <center/>
-<br><br/>
 <div style="text-align: right; padding: 60px;"> 
 
 <h5> <center> Welcome to The Anime Analysis project! <img src='https://i.imgur.com/45u09oc.png' width=50 padding=2>
