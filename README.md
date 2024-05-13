@@ -1,10 +1,11 @@
-# <center> Anime Analysis Project <center/>
 
-Welcome to our Anime Analysis project! 🎉
-<div style='text-align: center; padding: 20px;'>
+# <center> 📊Anime Analysis Project <center/>
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/9e622a3c-b952-4cfa-ac66-c4d170c21b36)  
+<div style="text-align: center; padding: 20px;"> 
 
-<img src="https://tenor.com/6LUi.gif" alt="Alt Text" width=700>
+<h5> Welcome to our Anime Analysis project! 🎉 <img src='https://i.imgur.com/45u09oc.png' width=50 padding=1></h2>
 </div>
+
 
 ## 💡Overview
 
