@@ -22,10 +22,14 @@ This repository hosts the code and findings of our comprehensive analysis of ani
 ## Key Findings
 
 ### Genre Preferences
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/7e38e459-5808-4059-b796-1f6d88a4f911)
 
 We discovered which genres are most popular among anime viewers and how preferences vary across different demographics.
 
 ### Top-Rated Titles
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/27cfbcaa-1009-459e-a2e8-e5db7af67f11)
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/dd7d2a0b-9571-41a2-ae0e-8925e12c555d)
+
 
 By analyzing user ratings, we identified the highest-rated anime titles and explored the factors contributing to their popularity.
 
