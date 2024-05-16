@@ -52,7 +52,7 @@ Factors such as age, gender, and location were examined to understand how they i
 To explore our findings and replicate our analysis, simply clone this repository and follow the instructions in the documentation. Feel free to adapt our code for your own projects or contribute to further research in the anime community.
  > **Note about Folium Maps**
 
->**🔴Please note that due to GitHub's rendering limitations, Folium maps may not display correctly when viewing this repository directly on GitHub. To view the Folium maps and interact with them properly, we recommend cloning this repository or downloading the notebooks locally and running them on your machine.**
+>🔴*Just a friendly reminder: GitHub's display setup might cause Folium maps not to show correctly when you're browsing this repo directly. To make sure you're seeing everything as intended, we recommend cloning the repo or downloading the notebooks and running them on your local machine.*
 
 
 ## ⚙️🛠️ Tools Used
