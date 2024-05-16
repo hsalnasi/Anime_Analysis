@@ -19,39 +19,43 @@ This repository hosts the code and findings of our comprehensive analysis of ani
   - **[Anime Analysis](1_Anime_Analysis)**: This section focuses on analyzing trends, genres, ratings, and seasonal patterns of anime titles.
   - **[Anime User Analysis](2_MAL_User_Analysis)**: This section examines demographics, user preferences, and engagement with anime content.
 
-## Key Findings
+## 📝 Key Findings
 
-### Genre Preferences
+### 🎭📺 Genre Preferences
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/7e38e459-5808-4059-b796-1f6d88a4f911)
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/4a1ba417-7f75-403d-adc4-22747de4476b)
 
 
 We discovered which genres are most popular among anime viewers and how preferences vary across different demographics such as (**Gender**).
 
-### Top-Rated Titles
+### 🥇Top-Rated Titles
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/27cfbcaa-1009-459e-a2e8-e5db7af67f11)
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/dd7d2a0b-9571-41a2-ae0e-8925e12c555d)
 
 
 By analyzing user ratings, we identified the highest-rated anime titles and explored the factors contributing to their popularity.
 
-### Seasonal Trends
+### 🎞️ Seasonal Trends
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/305e0fc6-b855-4292-83a0-452bbaac8851)
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/d20f4eb9-4d34-491e-97e5-1b69c1f0c698)
 We uncovered trends in seasonal anime releases and viewer engagement by examining release dates and viewership patterns.
 
-### Demographic Analysis
+### 👤 Demographic Analysis
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/297a8c23-5727-4ecc-bc12-662332c848f6)
 
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/fd7da524-16b3-4776-b369-bde03c9bf333)
 
 Factors such as age, gender, and location were examined to understand how they influence anime preferences and viewing habits.
 
-## How to Use
+## ❓ How to Use
 
 To explore our findings and replicate our analysis, simply clone this repository and follow the instructions in the documentation. Feel free to adapt our code for your own projects or contribute to further research in the anime community.
+ > **Note about Folium Maps**
 
-## Tools Used
+>**🔴Please note that due to GitHub's rendering limitations, Folium maps may not display correctly when viewing this repository directly on GitHub. To view the Folium maps and interact with them properly, we recommend cloning this repository or downloading the notebooks locally and running them on your machine.**
+
+
+## ⚙️🛠️ Tools Used
 
 The analysis in this project was conducted using a variety of tools and techniques:
 
