@@ -23,8 +23,10 @@ This repository hosts the code and findings of our comprehensive analysis of ani
 
 ### Genre Preferences
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/7e38e459-5808-4059-b796-1f6d88a4f911)
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/4a1ba417-7f75-403d-adc4-22747de4476b)
 
-We discovered which genres are most popular among anime viewers and how preferences vary across different demographics.
+
+We discovered which genres are most popular among anime viewers and how preferences vary across different demographics such as (**Gender**).
 
 ### Top-Rated Titles
 ![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/27cfbcaa-1009-459e-a2e8-e5db7af67f11)
@@ -34,16 +36,16 @@ We discovered which genres are most popular among anime viewers and how preferen
 By analyzing user ratings, we identified the highest-rated anime titles and explored the factors contributing to their popularity.
 
 ### Seasonal Trends
-
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/305e0fc6-b855-4292-83a0-452bbaac8851)
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/d20f4eb9-4d34-491e-97e5-1b69c1f0c698)
 We uncovered trends in seasonal anime releases and viewer engagement by examining release dates and viewership patterns.
 
 ### Demographic Analysis
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/297a8c23-5727-4ecc-bc12-662332c848f6)
+
+![image](https://github.com/hsalnasi/Anime_Analysis/assets/89119185/fd7da524-16b3-4776-b369-bde03c9bf333)
 
 Factors such as age, gender, and location were examined to understand how they influence anime preferences and viewing habits.
-
-### Recommendation System
-
-Leveraging machine learning techniques, we developed a recommendation system to suggest anime titles based on user preferences.
 
 ## How to Use
 
@@ -63,6 +65,7 @@ The analysis in this project was conducted using a variety of tools and techniqu
 - **<img src="https://www.machinelearningplus.com/wp-content/uploads/2023/03/MICE-imputation.png" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;"> MICE Imputation Algorithm**: The Multivariate Imputation by Chained Equations (MICE) algorithm was applied for handling missing data, ensuring robustness in our analysis by imputing missing values based on observed data patterns.
 
 - **<img src="https://png.pngtree.com/png-vector/20220706/ourmid/pngtree-stats-business-graph-png-image_5705173.png" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;">  Statistical Tests**: Various statistical tests, such as `Spearman correlation test` and `ANOVA` tests, were employed to analyze relationships between variables, assess significance levels, and validate findings.
+- **<img src="https://png.pngtree.com/png-vector/20220706/ourmid/pngtree-stats-business-graph-png-image_5705173.png" width="20" height="20" style="vertical-align: text-bottom; padding-right: 10px;">  Folium (Geo visualization using folium)**: Emphasizing users' geographical positions while also showcasing metrics like entry counts per location.
 
 These tools and techniques were instrumental in conducting a comprehensive analysis of anime trends and preferences, providing valuable insights into the anime fandom.
 
