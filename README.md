@@ -11,7 +11,6 @@ This repository hosts the code and findings of our comprehensive analysis of ani
 
 - **Project Structure**: The project consists of two sections:
   - **[Anime Analysis](1_Anime_Analysis)**: This section focuses on analyzing trends, genres, ratings, and seasonal patterns of anime titles.
-  - **[Anime User Analysis](2_MAL_User_Analysis)**: This section examines demographics, user preferences, and engagement with anime content.
   - **[MyAnimeList User Analysis](2_MAL_User_Analysis)**: This section examines demographics, user preferences, and engagement with anime content.
 
 ## 📝 Key Findings
